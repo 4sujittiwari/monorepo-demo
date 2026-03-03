@@ -1,0 +1,8 @@
+rootProject.name = 'monorepo'
+
+// Include services
+include 'services:user-service'
+include 'services:order-service'
+
+// Include libraries
+include 'libraries:common'
